@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Lê Đặng Khánh Hỷ - SE161252.iml" filepath="$PROJECT_DIR$/.idea/Lê Đặng Khánh Hỷ - SE161252.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SWT301_NJS1703-main/selenium-java-demo.iml" filepath="$PROJECT_DIR$/SWT301_NJS1703-main/selenium-java-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/selenium-webdriver-java-master.iml" filepath="$PROJECT_DIR$/.idea/selenium-webdriver-java-master.iml" />
     </modules>
   </component>
 </project>
