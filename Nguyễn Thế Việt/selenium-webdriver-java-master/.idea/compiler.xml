@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="selenium-java-demo" />
         <module name="selenium_java_demo" />
+        <module name="selenium-webdriver-java-master" />
       </profile>
     </annotationProcessing>
   </component>
